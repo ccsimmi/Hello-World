@@ -1,2 +1,2 @@
 # Hello-World
-This is a repository created whilst following the GitHub guide 
+Hello humans! This is my attempt at understanding GitHub!
